@@ -1,0 +1,82 @@
+.header{
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+border-radius: 16px;
+background: #070211 0%, rgba(7, 2, 17, 0.00) 100%;
+background-image: url('../images/Banner\ Image.png');
+margin: 50px 140px;
+}
+.banner{
+  
+    padding: 175px 370px;
+   
+    
+}
+.banner-title{
+    width: 632px;
+    color: rgb(42, 235, 12);
+text-align: center;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+margin-top: 0;
+/* 131.944% */
+}
+.banner-greeting{
+    color: rgb(248, 19, 183);
+   text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    margin-bottom: 0;
+   
+}
+.box{
+    color:rgb(227, 18, 35);
+    
+}
+
+.skill{
+    align-items: center;
+    display: block;
+}
+.tex-color{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 20px;
+}
+.section-description{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 0;
+   
+}
+.section-title{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 0;
+margin-bottom: 20px;
+}
+
+ .setion-photo{
+   width: 390px;
+   margin: 0px 580px;
+   
+ }
+    
+
