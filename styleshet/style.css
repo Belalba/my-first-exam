@@ -108,5 +108,33 @@ padding-bottom: 142px;
   
 }
 .resume{
-   padding: 126px 552px 142px 126px;
+ margin-right: ;
+}
+.label{
+    padding: 100px 200px 100px 200px;
+  background-color: rgb(239, 171, 216);
+  color: rgba(255, 0, 0, 0.00) 100%;
+
+  ;
+    align-items: center;
+   margin: 0 140px;
+}
+.pad{
+    padding: 50px 100px;
+    text-align: center;
+    font-size: 25px;
+
+}
+.pad-title{
+   
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-size: 20px;
+    display: inline-flex;
+    padding: 16px 32px;
+     gap: 10px;
+}
+.pad-color{
+    color: #F00;
 }
