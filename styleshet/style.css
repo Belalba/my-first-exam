@@ -148,4 +148,31 @@ width: 500px;
 .gift{
     color: #F00;
 }
+.foot{
+    padding: 100px 200px 100px 200px;
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+margin: 0 140px;
 
+
+}
+.foot-img{
+    padding: 0px 360px;
+}
+.ter-title{
+    text-align: center;
+}
+.descriptiopn{
+   
+    width: 500px;
+    text-align: center;
+    padding-left: 200px;
+}
+.btn{
+    width: 300px;
+   
+    
+    border-radius: 50px;
+background: #FFF;
+padding-left: 200px ;
+}
