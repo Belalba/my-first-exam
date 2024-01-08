@@ -76,22 +76,23 @@ margin: 140px;
 
 
 
+
  }
     
- .welcome-title{
+ .resume-title{
     width: 642px;
     color: #FFF;
 font-size: 64px;
 
  }
-.welcom-description{
+.resume-description{
     width: 697px;
     color: rgba(255, 255, 255, 0.80);
     font-size: 18px;
   
 
     /* 166.667% */}
- .welcome-join{
+ .resume-join{
     color: #FFF;
 font-size: 20px;
 padding-bottom: 142px;
@@ -105,4 +106,7 @@ padding-bottom: 142px;
     width: 319.83px;
    padding: 68px  138px 68px 262px;
   
+}
+.resume{
+   padding: 126px 552px 142px 126px;
 }
