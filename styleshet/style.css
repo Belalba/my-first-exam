@@ -176,18 +176,18 @@ background: #FFF;
 }
 .section{
     background-color: #FFF; 
-    margin: 0 140px; }
+    margin: 30px 140px; }
     
 .bannerr{
     padding: 100px 200px 100px 200px;
     display: flex;
     align-items: center;
-
+ 
 
 }
 .bannerr-title{
    color: #F00;
-   margin: 30px;
+   margin: 50px;
 }
 .bannerr-description{
     width: 300px;
@@ -207,9 +207,28 @@ background: #FFF;
    margin-right: 50px;
 }
 .bannerr-marjin-pic{ 
-    margin-right: 50px ;
+    margin-right: 60px ;
 }
 
 .section-banner-pic{
     width: 100px;
+}
+.foot-section{
+background-color: #070211;
+margin: 30px 140px;
+}
+.footer{
+    display: flex;
+    padding: 100px 200px 100px 200px;
+   align-items: center;
+}
+.font{
+    color: #FFF;
+}
+.font-c{
+    color: #FFF;
+    width: 230px;
+}
+.footer-foot{
+ padding-left: 500px;
 }
