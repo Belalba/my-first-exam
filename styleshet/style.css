@@ -232,3 +232,16 @@ margin: 30px 140px;
 .footer-foot{
  padding-left: 500px;
 }
+.footer-links{
+    display: flex;
+  padding: 0 500px;
+   }
+   .footer-bottom{
+    padding: 100px 200px;
+    display: flex;
+   }
+   .font-left{
+    color: #FFF;
+    padding-left: 800px;
+}
+    
